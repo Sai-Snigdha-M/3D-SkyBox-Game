@@ -1,6 +1,3 @@
-Got it 👍 Since you want the **README.md** to focus only on the **game and code**, I’ll strip out the event details and emphasize what you built, how you built it, and how others can run it. Here’s a professional draft for your repo:
-
-```markdown
 # GenAI-Powered 3D Game 🎮
 
 This repository contains the source code for a **fully functional GenAI-powered 3D game**, built during the **AI Skybox Challenge** at AUDevDay (AlgoUniversity Developers' Day).
